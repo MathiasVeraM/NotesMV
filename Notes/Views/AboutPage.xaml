@@ -9,8 +9,8 @@
     </ContentPage.BindingContext>
     <ScrollView>
         <VerticalStackLayout Spacing="10" Margin="10">
-            <Label FontSize="Subtitle" FontAttributes="Bold" Text="Mathias Vera" HorizontalOptions="Center" />
-            <Label FontSize="Body" Text="Soy estudiante de ingeniería en software cursando el 5to semestre, me gustan los musicales y leer" HorizontalOptions="Center" Margin="0,10" />
+            <Label FontSize="20" FontAttributes="Bold" Text="Mathias Vera" HorizontalOptions="Center" />
+            <Label FontSize="16" Text="Soy estudiante de ingeniería en software cursando el 5to semestre, me gustan los musicales y leer, a veces procrastino mucho" HorizontalOptions="Center" Margin="0,10" />
 
             <Image Source="bobpreocupado.png"
                    Aspect="AspectFill"
